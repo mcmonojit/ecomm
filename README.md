@@ -1,5 +1,5 @@
 
-This project is an ecommerce website. This project is not fully complete yet.
+This project is an ecommerce website. React is used for the frontend and Django for the backend. This project is not fully complete yet.
 
 
 ## Available Scripts
