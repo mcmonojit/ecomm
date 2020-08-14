@@ -1,5 +1,6 @@
 
-This project is an ecommerce website. 
+This project is an ecommerce website. This project is not fully complete yet.
+
 
 ## Available Scripts
 
