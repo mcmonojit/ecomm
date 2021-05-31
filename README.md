@@ -1,9 +1,5 @@
 
-This project is an ecommerce website. React is used for the frontend and Django for the backend.<br /> 
-This project is not fully complete yet.
-
-
-## Available Scripts
+<!-- This project is an ecommerce website. React is used for the frontend and Django for the backend.<br /> 
 
 In the project directory, run:
 
@@ -22,3 +18,4 @@ Build the app for production to the `build` folder.<br />
     npm run build
 
 It correctly bundles React in production mode and optimizes the build for the best performance.
+ -->
